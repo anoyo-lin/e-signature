@@ -1,0 +1,5 @@
+[setting]
+web_file_path=/var/www/html/GMMobile01/
+codepage=gb2312,gb2312,gb2312
+station=h01
+price_level=1

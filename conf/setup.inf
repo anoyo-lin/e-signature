@@ -1,0 +1,549 @@
+[pattern1]
+AddHandler php5-script .php 
+AddType text/html .php 
+DirectoryIndex index.php 
+LimitRequestBody 524288000
+[pattern1]
+[pattern2]
+f27639357ed44de9a960032692b8ccd700000000,b30f831d0a7ef3e299f1,29991231
+31dbae05cddd49fc94ad7a5dd175ca4800000000,09a14e7797c605efc2c1,29991231
+5fa86bb130f44fc8a2f35b8a2732894000000000,d1b02ba105d23eeebe12,29991231
+57b4a33b56d3446488775972919b876200000000,43da6c25573aef0a5a37,29991231
+c4f2ee5e2d004ad6bb045c3448f6157900000000,381468525dc4ad99b4ca,29991231
+[pattern2]
+[pattern3]
+config_dnload_path=/usr/tmp/config/
+non_unicode_device=1
+mesg_file=/usr/gm/bin/gmMobile.txt
+code_page=gb2312,gb2312,gb2312
+lang_desc=en,Simplified zh-Hans,Traditional zh-Hant
+[pattern3]
+[pattern4]
+h01=0001,01,0000,0999,1,1,flag1,other_esign,over1
+h02=0001,02,1000,1999,1,1,flag1,other_esign,over1
+h03=0001,01,2000,2999,1,1,flag1,other_esign,over1
+h04=0001,01,3000,3999,1,1,flag1,other_esign,over1
+h05=0001,01,4000,4999,1,1,flag1,other_esign,over1
+h06=0001,01,5000,5999,1,1,flag1,other_esign,over1
+h07=0001,01,6000,6999,1,1,flag1,other_esign,over1
+h08=0001,01,7000,7999,1,1,flag1,other_esign,over1
+h09=0001,01,8000,8999,1,1,flag1,other_esign,over1
+h10=0001,01,9000,9999,1,1,flag1,other_esign,over1
+h11=0001,02,0000,0999,1,1,flag1,other_esign,over1
+h12=0001,02,1000,1999,1,1,flag1,other_esign,over1
+h13=0001,02,2000,2999,1,1,flag1,other_esign,over1
+h14=0001,02,3000,3999,1,1,flag1,other_esign,over1
+h15=0001,02,4000,4999,1,1,flag1,other_esign,over1
+h16=0001,02,5000,5999,1,1,flag1,other_esign,over1
+h17=0001,02,6000,6999,1,1,flag1,other_esign,over1
+h18=0001,02,7000,7999,1,1,flag1,other_esign,over1
+h19=0001,02,8000,8999,1,1,flag1,other_esign,over1
+h20=0001,02,9000,9999,1,1,flag1,other_esign,over1
+h21=0001,03,0000,0999,1,1,flag1,other_esign,over1
+h22=0001,03,1000,1999,1,1,flag1,other_esign,over1
+h23=0001,03,2000,2999,1,1,flag1,other_esign,over1
+h24=0001,03,3000,3999,1,1,flag1,other_esign,over1
+h25=0001,03,4000,4999,1,1,flag1,other_esign,over1
+h26=0001,03,5000,5999,1,1,flag1,other_esign,over1
+h27=0001,03,6000,6999,1,1,flag1,other_esign,over1
+h28=0001,03,7000,7999,1,1,flag1,other_esign,over1
+h29=0001,03,8000,8999,1,1,flag1,other_esign,over1
+h30=0001,03,9000,9999,1,1,flag1,other_esign,over1
+h31=0001,04,0000,0999,1,1,flag1,other_esign,over1
+h32=0001,04,1000,1999,1,1,flag1,other_esign,over1
+h33=0001,04,2000,2999,1,1,flag1,other_esign,over1
+h34=0001,04,3000,3999,1,1,flag1,other_esign,over1
+h35=0001,04,4000,4999,1,1,flag1,other_esign,over1
+h36=0001,04,5000,5999,1,1,flag1,other_esign,over1
+h37=0001,04,6000,6999,1,1,flag1,other_esign,over1
+h38=0001,04,7000,7999,1,1,flag1,other_esign,over1
+h39=0001,04,8000,8999,1,1,flag1,other_esign,over1
+h40=0001,04,9000,9999,1,1,flag1,other_esign,over1
+h41=0001,05,0000,0999,1,1,flag1,other_esign,over1
+h42=0001,05,1000,1999,1,1,flag1,other_esign,over1
+h43=0001,05,2000,2999,1,1,flag1,other_esign,over1
+h44=0001,05,3000,3999,1,1,flag1,other_esign,over1
+h45=0001,05,4000,4999,1,1,flag1,other_esign,over1
+h46=0001,05,5000,5999,1,1,flag1,other_esign,over1
+h47=0001,05,6000,6999,1,1,flag1,other_esign,over1
+h48=0001,05,7000,7999,1,1,flag1,other_esign,over1
+h49=0001,05,8000,8999,1,1,flag1,other_esign,over1
+h50=0001,05,9000,9999,1,1,flag1,other_esign,over1
+h51=0001,06,0000,0999,1,1,flag1,other_esign,over1
+h52=0001,06,1000,1999,1,1,flag1,other_esign,over1
+h53=0001,06,2000,2999,1,1,flag1,other_esign,over1
+h54=0001,06,3000,3999,1,1,flag1,other_esign,over1
+h55=0001,06,4000,4999,1,1,flag1,other_esign,over1
+h56=0001,06,5000,5999,1,1,flag1,other_esign,over1
+h57=0001,06,6000,6999,1,1,flag1,other_esign,over1
+h58=0001,06,7000,7999,1,1,flag1,other_esign,over1
+h59=0001,06,8000,8999,1,1,flag1,other_esign,over1
+h60=0001,06,9000,9999,1,1,flag1,other_esign,over1
+h61=0001,07,0000,0999,1,1,flag1,other_esign,over1
+h62=0001,07,1000,1999,1,1,flag1,other_esign,over1
+h63=0001,07,2000,2999,1,1,flag1,other_esign,over1
+h64=0001,07,3000,3999,1,1,flag1,other_esign,over1
+h65=0001,07,4000,4999,1,1,flag1,other_esign,over1
+h66=0001,07,5000,5999,1,1,flag1,other_esign,over1
+h67=0001,07,6000,6999,1,1,flag1,other_esign,over1
+h68=0001,07,7000,7999,1,1,flag1,other_esign,over1
+h69=0001,07,8000,8999,1,1,flag1,other_esign,over1
+h70=0001,07,9000,9999,1,1,flag1,other_esign,over1
+h71=0001,08,0000,0999,1,1,flag1,other_esign,over1
+h72=0001,08,1000,1999,1,1,flag1,other_esign,over1
+h73=0001,08,2000,2999,1,1,flag1,other_esign,over1
+h74=0001,08,3000,3999,1,1,flag1,other_esign,over1
+h75=0001,08,4000,4999,1,1,flag1,other_esign,over1
+h76=0001,08,5000,5999,1,1,flag1,other_esign,over1
+h77=0001,08,6000,6999,1,1,flag1,other_esign,over1
+h78=0001,08,7000,7999,1,1,flag1,other_esign,over1
+h79=0001,08,8000,8999,1,1,flag1,other_esign,over1
+h80=0001,08,9000,9999,1,1,flag1,other_esign,over1
+h81=0001,09,0000,0999,1,1,flag1,other_esign,over1
+h82=0001,09,1000,1999,1,1,flag1,other_esign,over1
+h83=0001,09,2000,2999,1,1,flag1,other_esign,over1
+h84=0001,09,3000,3999,1,1,flag1,other_esign,over1
+h85=0001,09,4000,4999,1,1,flag1,other_esign,over1
+h86=0001,09,5000,5999,1,1,flag1,other_esign,over1
+h87=0001,09,6000,6999,1,1,flag1,other_esign,over1
+h88=0001,09,7000,7999,1,1,flag1,other_esign,over1
+h89=0001,09,8000,8999,1,1,flag1,other_esign,over1
+h90=0001,09,9000,9999,1,1,flag1,other_esign,over1
+h91=0001,10,0000,0999,1,1,flag1,other_esign,over1
+h92=0001,10,1000,1999,1,1,flag1,other_esign,over1
+h93=0001,10,2000,2999,1,1,flag1,other_esign,over1
+h94=0001,10,3000,3999,1,1,flag1,other_esign,over1
+h95=0001,10,4000,4999,1,1,flag1,other_esign,over1
+h96=0001,10,5000,5999,1,1,flag1,other_esign,over1
+h97=0001,10,6000,6999,1,1,flag1,other_esign,over1
+h98=0001,10,7000,7999,1,1,flag1,other_esign,over1
+h99=0001,10,8000,8999,1,1,flag1,other_esign,over1
+[pattern4]
+[pattern5]
+./data/tbl_stat = *tbl_stat_info
+[pattern5]
+[pattern6]
+[tbl_stat_info]
+TOTABLE, FOUTLET+FTABLE, .NOT. DELETED(), 0, 0
+TTABLE, FTABLE, .NOT. DELETED(), 0, 0
+[pattern6]
+[pattern7]
+print_copy=0
+[pattern7]
+[pattern8]
+######## eSignature #########
+php_bin_path=/usr/local/bin/
+support_view_check_image=1
+view_check_print_format=99
+view_check_codepage=gb2312,gb2312,gb2312
+view_check_php_program_path=/var/www/html/GMMobile
+view_check_image_width=765px
+upload_sign_img_type=2
+bmp_sign_imgpath=/var/www/html/GMMobile/uploads
+support_e_signature=1
+e_signature_java_program=/usr/gm/bin
+e_signature_signed_imgpath=/var/www/html/GMMobile/uploads
+e_signature_paid_imgpath=/u/tmp/paidImage
+e_signature_java_timeout=15
+######## eSignature #########
+[pattern8]
+[pattern9]
+~G963,$sign_img$,0,1,0,0
+[pattern9]
+[pattern10]
+fmt99:1=setup1,head9E,cont9E,end9E,item9C,modi9C,pay9C,prt_hist9E,mesg9E,idisc9C,null,null,totsum9E
+fmt99:2=setup1,head9C,cont9C,end9C,item9C,modi9C,pay9C,prt_hist9C,mesg9C,idisc9C,null,null,totsum9E
+fmt99:3=setup1,head9C,cont9C,end9C,item9C,modi9C,pay9C,prt_hist9C,mesg9C,idisc9C,null,null,totsum9E
+[pattern10]
+[pattern11]
+[head9E]
+#;*C;(DETAIL>"0"/(ck_ref ! ""/Mr.\Mrs.\Miss $ck_ref$/)/)
+#;*C;(ck_ref ! ""/Mr.\Mrs.\miss $ck_ref$,/)
+#;*C;(TRAINING > "0"/   [ TRAINING MODE ]/)
+#;*C;(ECR_MODE > "0"/      [ ECR MODE ]/)
+#;*C;(PACK_FMT = "1"/   [ PACKING SLIP ] /)
+#;*C;(PICKUP_FMT = "1"/  [ PICKUP SLIP - $ck_recno,3.0L$ ]/)
+;*rE;(comname2 ! ""/$comname2$/)
+;*bC;(outdesc ! ""/$outdesc$/)
+#;*rC;(comname2 ! ""/$comname2,25C$/)
+#;*rC;(comname1 ! ""/$comname1,25C$/)
+#(DETAIL > "0"/;*;/;*C;(outdesc ! ""/$outdesc,25C$/))
+#;*;(DETAIL > "0"//;*bE;(addr2 ! ""/99 Liu Dao Street,Mangzhouli,China/;*;))
+;*;(DETAIL > "0"//;*bE;(addr2 ! ""/$addr2,33C$/;*;))
+(DETAIL > "0"//;*E;(tel ! ""/     Tel : $tel$/))
+#;*E;(fax ! ""/Fax : $fax$/)
+;E;--------------------------------
+;*E;(DETAIL > "0"/DETAIL LISTING : $checkno$/)
+;*E;(DELIVERY > "0"/Customer: $deli_cust$/) 
+;*E;(DELIVERY > "0"/Cust. Tel.: $deli_phone$/)
+;*;(DELIVERY > "0"/(deli_addr1 ! ""/;E;  $deli_addr1$/)/)
+;*;(DELIVERY > "0"/(deli_addr2 ! ""/;E;  $deli_addr2$/)/)
+;*;(DELIVERY > "0"/(deli_city ! ""/;E;  $deli_city$ $deli_state$/)/)
+;*;(DELIVERY > "0"/(deli_empno ! ""/;E;Deli.Man : $deli_emp$ "("$deli_empno$")"/)/)
+;*E;(MGR_REPRT > "0"/** Manager Re-print **/) 
+;*E;(DAILY > "0"//     * Past Check *)
+;*E;(DAILY > "0"//     "("$ckdate1,8L,1,8$")")
+#;C;         TABLE: $table$
+;*E;(outlet="0001"/      Room No./      Table): $table$
+;*;(tbl_desc2 ! ""/;rC;         $tbl_desc2$/;*;) 
+;bE;Date  : $ckdate1,8L,1,8$    Time  : $time_in,5,1,5$
+;E;Staff : $empname,10L$  Cover : $guest$
+;*;(DETAIL > "0"//;C;Print: $prtno,3.0L$ Check#: $checkno$)
+#;*C;(ck_ref ! ""/Ref. No.:$ck_ref$/)
+;*;(DETAIL > "0"/;C;(prtno > "1"/Print History:/No print history)/)
+;*;(DETAIL > "0"/(prtno > "1"/+F:print_history+/)/)
+;*;(DETAIL > "0"/;E;/)
+;E;
+
+
+[head9C]
+#;*C;(DETAIL>"0"/(ck_ref ! ""/尊敬的$ck_ref$先生\女士:/)/)
+#;*C;(ck_ref ! ""/尊敬的$ck_ref$:/)
+#;*C;(TRAINING > "0"/   [ 系统训练模式 ]/)
+#;*C;(ECR_MODE > "0"/   [ 单机操作模式 ]/)
+#;*C;(PACK_FMT = "1"/   [ 外卖单据收据 ] /)
+#;*C;(PICKUP_FMT = "1"/  [ 外卖取货收据 - $ck_recno,3.0L$ ] /)
+;C;
+;*rC;(comname1 ! ""/$comname1$/)
+;*bC;(outdesc ! ""/$outdesc$/)
+#;*rC;(comname1 ! ""/$comname1,25C$/)
+#(DETAIL > "0"/;*;/;rC;(outdesc ! ""/$outdesc,25C$/))
+#(DETAIL > "0"//;*bE;(addr2 ! ""/$addr2$/))
+(DETAIL > "0"//;*bC;(addr1 ! ""/$addr1$/))
+(DETAIL > "0"//;*C;电话: $tel$)
+#;*E;(fax ! ""/传真: $fax$/)
+;E;---------------------------------
+;*C;(DETAIL > "0"/  详 列 单 据  : $checkno$/)
+;*E;(DELIVERY > "0"/送货顾客: $deli_cust$/) 
+;*E;(DELIVERY > "0"/顾客电话: $deli_phone$/)
+;*;(DELIVERY > "0"/(deli_addr1 ! ""/;E;  $deli_addr1$/)/)
+;*;(DELIVERY > "0"/(deli_addr2 ! ""/;E;  $deli_addr2$/)/)
+;*;(DELIVERY > "0"/(deli_city ! ""/;E;  $deli_city$ $deli_state$/)/)
+;*;(DELIVERY > "0"/(deli_empno ! ""/;E;送货员工 : $deli_emp$ "("$deli_empno$")"/)/)
+;*C;(MGR_REPRT > "0"/**    经 理 重 印   **/) 
+;*E;(DAILY > "0"//     * 过 往 单 据 *)
+;*E;(DAILY > "0"//     "("$ckdate1,8L,1,8$")")
+#;*C;         $spc_mesg$
+;*C;(outlet="0001"/       房/      台)号 : $table$
+;*;(tbl_desc2 ! ""/;rC;         $tbl_desc2$/;*;) 
+;*C;日期:$ckdate1,8L,1,8$ 开单:$time_in,5,1,5$
+;*C;员工:$empname,10L$ 人数:$guest$
+;*;(DETAIL > "0"//;C;印单 : $prtno,3.0L$ 单号# : $checkno$)
+#;*C;(ck_ref ! ""/Ref. No.:$ck_ref$/)
+;*;(DETAIL > "0"/;C;(prtno > "1"/打印记录:/无打印记录)/)
+;*;(DETAIL > "0"/(prtno > "1"/+F:print_history+/)/)
+;*;(DETAIL > "0"/;E;/)
+;E;
+
+
+[cont9E]
+#+F:det_item+
++F:grp_item+
+;E;
++F:tot_sum+
+;*;(DETAIL > "0"//;*E;(allitmtot > "0"/              Sub-Total $allitmtot+allitmdisc, 9.2$/))
+#;*;(allitmdisc > "0"/;rE;$idiscdesc1,23R$ $-allitmdisc,9.2$/)
++F:itemdisc+
+;*;(disamt > "0"/;rE;$discdesc,22R$ $-disamt,9.2$/)
+#;*E;(tax1 > "0"/$tax_desc1,23R$ $tax1,9.@$/)
+#;*E;(tax2 > "0"/$tax_desc2,23R$ $tax1,9.@$/)
+#;*E;(tax3 > "0"/$tax_desc3,23R$ $tax1,9.@$/)
+#;*E;(alltax > "0"/                All Tax $alltax,9.2$/)
+#;*;(DETAIL > "0"//;bE;(serv1 > "0"/$serv_desc1,23R$ $serv1,9.2$/))
+#;*;(DETAIL > "0"//;*bE;(serv1 = "0"/    Waive S.C.: $allitmtot+allitmdisc*0.15,9.2$/))
+#;*;(serv2 > "0"/;bE;$serv_desc2,23R$ $serv2,9.@$/)
+#;*;(DETAIL > "0"//;*bE;(serv2 > "0"/$serv_desc2,23R$ $serv2,9.@$/))
+#;*E;(allserv > "0"/               All S.C. $allserv,9.@$/) 
+#;*;(DETAIL > "0"//;*rE;(disamt > "0"/$discdesc,23R$ $-disamt,9.2$/))
+#;*;(isround > "0"/;bE;              Round Amt $isround,9.2$/)
+#;*;(DETAIL > "0"//;*bE;(isround > "0"/              Round Amt $isround,9.&$/))
+#;*;(DETAIL > "0"//;E;                        ---------)
+;*bE;(serv1 > "0"/$serv_desc1,22R$ $serv1-roundamt,9.2$/)
+;*;(serv2 > "0"/;bE;$serv_desc2,22R$(serv1 > "0"/$serv2,9.2$/$serv2-roundamt,9.2$)/)
+;*bE;(tax1 > "0"/$tax_desc1,22R$ $tax1,9.2$/)
+;*E;(tax2 > "0"/$tax_desc2,22R$ $tax2,9.2$/)
+;*E;(tax3 > "0"/$tax_desc3,22R$ $tax3,9.2$/)
+;*E;(alltax > "0"/             ALL VAT $alltax,9.2$/)
+;*;(isround ! "0"/;bE;              Round Amt $isround,9.2$/)
+;*;(roundamt ! "0"/;bE;              Round Amt $roundamt,9.2$/)
+;*;(DETAIL > "0"//;bE;$prttime,5,1,5$ Total RMB $net_tot,9.2$)
+;*;(DETAIL > "0"//;E;                         =========)
+#;E;
+#;*;(DETAIL > "0"//;E;                Tips：  )
+#;*;(DETAIL > "0"//;E;                        =========)
+;E;
+#;*;(DETAIL > "0"//;C;      Total HKD $net_tot/1.04,9.2$)
+#;*;(DETAIL > "0"//;E;                         =========)
+;*;(DETAIL > "0"//(show_fc > "0"/;E;$fc_desc,15R$ $net_to_fc,9.@$/))
+;*;(DETAIL > "0"/+F:message+/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;/;E;       <UNPAID>)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;Cashier : $cashname$ "("$cashier$")"/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;Pay Meth Amount   Tips   Total/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/-------- -------- ------ --------/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/+F:payment+/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;** Total $amt_tot,8.2$ $tips_tot,6.2$ $all_pay,8.2$/)/)
+
+[cont9C]
++F:grp_item+
+;E;
++F:tot_sum+
+;*;(DETAIL > "0"//;*C;(allitmtot > "0"/      小计  $allitmtot+allitmdisc, 9.2$/))
+#;*;(allitmdisc > "0"/;rE;$idiscdesc2,23R$ $-allitmdisc,9.2$/)
++F:itemdisc+
+;*;(disamt > "0"/;rC;$discdesc,22R$$-disamt,9.2$/)
+#;*E;(tax1 > "0"/$tax_desc1,23R$ $tax1,9.@$/)
+#;*E;(tax2 > "0"/$tax_desc2,23R$ $tax1,9.@$/)
+#;*E;(tax3 > "0"/$tax_desc3,23R$ $tax1,9.@$/)
+#;*E;(alltax > "0"/               税项总和 $alltax,9.2$/)
+#;*;(DETAIL > "0"//;*bE;(serv1 > "0"/$serv_desc1,23R$ $serv1,9.2$/))
+#;*;(DETAIL > "0"//;*bE;(serv1 = "0"/    免服务费: $allitmtot+allitmdisc*0.15,9.2$/))
+#;*;(serv2 > "0"/;bE;$serv_desc2,23R$ $serv2,9.2$/)
+#;*E;(allserv > "0"/             服务费总和 $allserv,9.@$/) 
+#;*;(isround > "0"/;bE;               约数差额 $isround,9.2$/)
+#;*;(DETAIL > "0"//;E;                        ---------)
+;*bC;(serv1 > "0"/$serv_desc1$ $serv1-roundamt,9.2$/)
+;*;(serv2 > "0"/;bE;$serv_desc2$(serv1 > "0"/$serv2,9.2$/$serv2-roundamt,9.2$)/)
+;*bC;(tax1 > "0"/  $tax_desc1$ $tax1,9.2$/)
+;*C;(tax2 > "0"/  $tax_desc2$ $tax2,9.2$/)
+;*C;(tax3 > "0"/  $tax_desc2$ $tax3,9.2$/)
+;*C;(alltax > "0"/     ALL VAT $alltax,9.2$/)
+;*;(isround ! "0"/;bE;              Round Amt $isround,9.2$/)
+;*;(roundamt ! "0"/;bE;              Round Amt $roundamt,9.2$/)
+;*;(DETAIL > "0"//;bC;$prttime,5,1,5$   总计RMB $net_tot,9.2$)
+;*;(DETAIL > "0"//;E;                         =========)
+#;E;
+#;*;(DETAIL > "0"//;E;                小费：  )
+#;*;(DETAIL > "0"//;E;                         =========)
+;E;
+#;*;(DETAIL > "0"//;C;        总计HKD $net_tot/1.04,9.2$)
+#;*;(DETAIL > "0"//;E;                         =========)
+;*;(DETAIL > "0"//(show_fc > "0"/;C;$fc_desc,15R$ $net_to_fc,9.2$/))
+;*;(DETAIL > "0"/+F:message+/)
+;*;(DETAIL > "0"/(is_paid > "0"/;E;/;C;      <尚未付款>)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;C;收银员 : $cashname$ "("$cashier$")"/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;C;付款方法 数额     小账   总数 /)/)
+;*;(DETAIL > "0"/(is_paid > "0"/-------- -------- ------ --------/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/+F:payment+/)/)
+;*;(DETAIL > "0"/(is_paid > "0"/;C;** 总和  $amt_tot,8.2$ $tips_tot,6.2$ $all_pay,8.2$/)/)
+
+[end9E]
+#;*;(mem2type="GC"/(member2 ! ""/;E;GC Number: $member2$/)/)
+#;*;(mem2type="GC"/(mem2info ! ""/;E;$mem2info$/)/)
+#;*;(mem2type="GC"/(c_othref3 ! "                                        "/;E;Tier: $c_othref3$/)/)
+#;*;(mem2type="GC"/(c_othref4 ! "                                        "/;E;Expiry Date: $c_othref4$/)/)
+#;*;(mem2type = "GC"/(c_othref7 !""/;E; /)/)
+#;*;(mem2type = "GC"/(c_othref7 !""/;E;Current Pts.: $c_othref7$/)/)
+#;*;(mem2type = "GC"/(c_othref8 !""/;E;Equiv. Bal.:$gc_curcode$ $c_othref8$/)/)
+#;*;(mem2type = "GC"/(c_othref7 !""/(outelt ! "0061"/;E; /)/)/)
+#;*;(mem2type = "GC"/(c_othref7 !""/(outlet ! "0061"/;E;Expiring in This Year:/)/)/)
+#;*;(mem2type = "GC"/(c_othref9 !""/(outlet ! "0061"/;E;Pts.: $c_othref9$/)/)/)
+#;*;(mem2type = "GC"/(c_othref10 !""/(outlet ! "0061"/;E;Equiv. Bal.:$gc_curcode$ $c_othref10$/)/)/)
+#;*;(mem2type = "GC"/(c_othref7 !""/;E;_________________________________ /)/)
+#;*;(mem2type = "GC"/(c_othref7 !""/(outelt ! "0061"/;E; /)/)/)
+#;*;(mem2type = "GC"/(gc_maxpt !""/(outlet ! "0061"/;E;Max. Redemption Pts.: $gc_maxpt$/)/)/)
+#;*E;(mem2type = "GC"/(c_othref7 !""/Pts. to use:(c_othref11 = "GC_POINTS_REDEMPTION"/ $c_othref12$/ ____________________)/)/)
+#;*;(mem2type = "GC"/(gc_maxamt !""/(outlet ! "0061"/;E;Max. Redemption Amt.:$gc_curcode$ $gc_maxamt,-10.2$/)/)/)
+;*E;(mem2type = "GC"/(c_othref7 !""/Amount to use:(c_othref11 = "GC_POINTS_REDEMPTION"/ $c_othref13$/$gc_curcode$ _______________)/)/)
+#;*C;(mem2type = "GC"/(c_othref7 !""/(c_othref11 = "GC_POINTS_REDEMPTION"/Remaining Amt to pay:$gc_curcode$ $gc_othpamt,-9.2$/)/)/)
+#;*;(mem2type = "GC"/(c_othref7 !""/;E; /)/)
+#;*;(mem2type = "GC"//;E; Join Golden Circle now to earn)
+#;*;(mem2type = "GC"//;E;points towards free nights,dining)
+#;*;(mem2type = "GC"//;E;        awards and more.)
+;*;(mem2type="GC"/(member2 ! ""/;E;GC Number: $member2,9,1,9$***/)/)
+;*;(mem2type="GC"/(mem2info ! ""/;E;$mem2info$/)/)
+;*;(mem2type="GC"/(c_othref3 ! "                                        "/;E;Tier: $c_othref3$/)/)
+;*;(mem2type="GC"/(c_othref4 ! "                                        "/;E;Expiry Date: $c_othref4,10L$/)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/;E; /)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/;E;(MGR_REPRT > "0"/(gc_prept>"0"/Current/Original)/Current) Pts.: $c_othref7$/)/)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/;E;Equiv. Bal.:$gc_curcode$ $c_othref8$/)/)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/;E; /)/)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/;E;Expiring in This Year:/)/)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/;E;Pts.: $c_othref9$/)/)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/;E;Equiv. Bal.:$gc_curcode$ $c_othref10$/)/)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/;E;_________________________________ /)/)
+;*;(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/;E; /)/)/)
+;*;(MGR_REPRT > "0"//(mem2type = "GC"/(gc_noredm="0"/(outlet ! "0061"/(net_tot=$gc_vcamt$//;E;Max. Redemption Pts.: $gc_maxpt$)/)/)/))
+;*;(mem2type = "GC"/( gc_prept >"0"/;E;Previous Pts. used: $gc_prept,-9.0$/)/)
+;*E;(mem2type = "GC"/(net_tot=$gc_vcamt$//(gc_noredm="0"/Pts. (MGR_REPRT>"0"/used:/to use:)(c_othref11 ! ""/ (gc_prept>"0"/$gc_ptuse,-9.0$/$c_othref12$)/ ____________________)/))/)
+;*;(mem2type = "GC"/( gc_refund >"0"/;E;Refund Pts.: $gc_refund,-9.0$/)/)
+;*;(MGR_REPRT > "0"//(mem2type = "GC"/(net_tot=$gc_vcamt$//(gc_noredm="0"/(outlet ! "0061"/;E;Max. Redemption Amt.:$gc_curcode$ $gc_maxamt,-10.2$/)/))/))
+;*;(mem2type = "GC"/( gc_prepamt >"0"/;E;Previous Amt used:$gc_curcode$ $ gc_prepamt,-9.2$/)/)
+;*E;(mem2type = "GC"/(net_tot=$gc_vcamt$//(gc_noredm="0"/(MGR_REPRT>"0"/Amount used in /Amount to use:)(c_othref11 ! ""/$gc_curcode$ (gc_prept>"0"/$gc_amtuse,-10.2$/$c_othref13$)/$gc_curcode$ _______________)/))/)
+;*;(mem2type = "GC"/(gc_vcamt>"0"/;E;GC Voucher:$gc_curcode$ $gc_vcamt,-10.2$/)/)
+;*E;(MGR_REPRT>"0"//(mem2type = "GC"/(gc_vcamt>"0"/Amount to Pay:$gc_curcode$ (c_othref11 ! ""/$gc_othpamt-gc_vcamt,-9.2$/$net_tot-gc_vcamt,-10.2$)/(c_othref11 ! ""/Amount to Pay:$gc_curcode$ $gc_othpamt-gc_vcamt,-9.2$/))/))
+;*;(mem2type = "GC"/(c_othref7 !""/;E; /)/)
+;*;(mem2type = "GC"//;E; Join Golden Circle now to earn)
+;*;(mem2type = "GC"//;E;points towards free nights,dining)
+;*;(mem2type = "GC"//;E;        awards and more.)
+#;E;
+;*E;(member = "CL1234"/(is_paid > "0"/;E;Pay Meth Amount   Tips   Total/)/)
+;*E;(member = "CL1234"/(is_paid > "0"/-------- -------- ------ --------/)/)
+;*E;(member = "CL1234"/(is_paid > "0"/+F:payment+/)/)
+;*E;(member ! "CL1234"/(member ! ""/Member:$member$/)/)
+;*E;(member ! "CL1234"/(member ! ""/       $mem_name,25D$/)/)
+(DETAIL > "0" /;E;****   THIS IS NOT A CHECK   ****/;*;)
+(DETAIL > "0" /;E;**** PLEASE DON'T PAY FOR IT ****/;*;)
+# (DETAIL = "0" /;E;/;*;)
+# (DETAIL = "0" /;E;/;*;)
+# (DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;ROOM"/"ACC. :___________________/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;GUEST"/"CO. :___________________/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;     -----------------------/;*;)
+(DETAIL = "0" /;E;        Please Sign Here/;*;)
+;*E;(DETAIL="0"/(is_paid= "0" /;E;   DM "/" BR "/" BP "/" ER "/" EL "/" CL/;*;)/)  
+#(DETAIL = "0" /;E;                    DM  BP  BR  ER/;*;)
+(DETAIL = "0" /;E;---------------------------------/;*;)
+#(DETAIL = "0"/;E;  Please retain  charge docket  /;*;)
+#(DETAIL = "0"/;E;  as your supporting document.  /;*;)
+#(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;rE;        Thank You/;*;)
+#(DETAIL = "0" /;rC;    Please Come Again/;*;)
+#;*E;(greet1 ! ""/$greet1,32C$/)
+#;*E;(greet2 ! ""/$greet2,32C$/)
+#;*E;(greet3 ! ""/$greet3,32C$/)
+#;*E;(greet4 ! ""/$greet4,32C$/)
+#;*E;(greet5 ! ""/$greet5,32C$/)
+(prtpaidck > "0"/;bE;       << SETTLED >>/;*;)
+(TAKEOUT > "0"/;E;    << TAKEOUT CHECK >>/;*;)
+#~G981,/var/www/html/GMMobile/uploads/$sign_img$,0,1,1,1
+~G963,$sign_img$,0,1,0,0
+;-F;05
+;-X;
+
+[end9C]
+;*;(mem2type="GC"/(member2 ! ""/;E;GC Number: $member2,9,1,9$***/)/)
+;*;(mem2type="GC"/(mem2info ! ""/;E;$mem2info$/)/)
+;*;(mem2type="GC"/(c_othref3 ! "                                        "/;E;Tier: $c_othref3$/)/)
+;*;(mem2type="GC"/(c_othref4 ! "                                        "/;E;Expiry Date: $c_othref4$/)/)
+;*;(mem2type = "GC"/(c_othref7 !""/;E; /)/)
+;*;(mem2type = "GC"/(c_othref7 !""/;C;当前分数: $c_othref7$/)/)
+;*;(mem2type = "GC"/(c_othref8 !""/;C;等值金额:$gc_curcode$ $c_othref8$/)/)
+;*;(mem2type = "GC"/(c_othref7 !""/(outelt ! "0061"/;E; /)/)/)
+;*;(mem2type = "GC"/(c_othref7 !""/(outlet ! "0061"/;C;今年将过期:/)/)/)
+;*;(mem2type = "GC"/(c_othref9 !""/(outlet ! "0061"/;C;分数: $c_othref9$/)/)/)
+;*;(mem2type = "GC"/(c_othref10 !""/(outlet ! "0061"/;C;等值金额:$gc_curcode$ $c_othref10$/)/)/)
+;*;(mem2type = "GC"/(c_othref7 !""/;E;_________________________________ /)/)
+;*;(mem2type = "GC"/(c_othref7 !""/(outelt ! "0061"/;E; /)/)/)
+;*;(mem2type = "GC"/(gc_maxpt !""/(outlet ! "0061"/;C;最多回赠分数: $gc_maxpt$/)/)/)
+;*C;(mem2type = "GC"/(c_othref7 !""/所用分数:(c_othref11 = "GC_POINTS_REDEMPTION"/ $c_othref12$/ ____________________)/)/)
+;*;(mem2type = "GC"/(gc_maxamt !""/(outlet ! "0061"/;C;最多回赠金额:$gc_curcode$ $gc_maxamt,-10.2$/)/)/)
+;*C;(mem2type = "GC"/(c_othref7 !""/所用金额:(c_othref11 = "GC_POINTS_REDEMPTION"/ $c_othref13$/$gc_curcode$ _______________)/)/)
+;*C;(mem2type = "GC"/(c_othref7 !""/(c_othref11 = "GC_POINTS_REDEMPTION"/还需应付金额:$gc_curcode$ $gc_othpamt,-9.2$/)/)/)
+;*;(mem2type = "GC"/(c_othref7 !""/;E; /)/)
+;*;(mem2type = "GC"//;C; 现在就加入贵宾金环会，赚取奖励)
+;*;(mem2type = "GC"//;C;  积分以兑换免费住宿，美酒佳酿)
+;*;(mem2type = "GC"//;C;        及更多缤纷奖励。)
+#;E;
+;*C;(member = "CL1234"/(is_paid > "0"/;E;付款方法 数额     小账   总数 /)/)
+;*E;(member = "CL1234"/(is_paid > "0"/-------- -------- ------ --------/)/)
+;*C;(member = "CL1234"/(is_paid > "0"/+F:payment+/)/)
+;*C;(member ! "CL1234"/(member ! ""/会员: $member$/)/)
+;*C;(member ! "CL1234"/(member ! ""/      $mem_name,25D$/)/)
+(DETAIL > "0" /;C;**** 此单非正式单据, 请勿付款 ****/;*;)
+#(DETAIL > "0" /;E;**** PLEASE DON'T PAY FOR IT ****/;*;)
+# (DETAIL = "0" /;E;/;*;)
+# (DETAIL = "0" /;E;/;*;)
+# (DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;C;房号"/"帐号 :___________________/;*;)
+(DETAIL = "0" /;E;/;*;)
+(DETAIL = "0" /;C;姓名"/"公司 :___________________/;*;)
+(DETAIL = "0"/;E;/;*;)
+(DETAIL = "0"/;E;/;*;)
+(DETAIL = "0"/;E;/;*;)
+(DETAIL = "0"/;E;     -----------------------/;*;)
+(DETAIL = "0"/;C;        请 签 名          /;*;)
+#;*E;(DETAIL="0"/(is_paid= "0" /;E;   DM "/" BR "/" BP "/" ER "/" EL "/" CL/;*;)/)  
+#(DETAIL = "0"/;E;                  DM  BP  BR  ER      /;*;)
+#(DETAIL = "0"/;E;---------------------------------/;*;)
+#(MGR_REPRT > "0"/;C; 此收据是对帐凭证,请保留!!/;*;)
+#(DETAIL = "0"/;E;             请保留。           /;*;)
+#(DETAIL = "0"/;E;/;*;)
+#(DETAIL = "0"/;rC;服务质量监督电话:62024593
+(DETAIL = "0"/;rC;    多谢惠顾 请再光临/;*;)
+#;*E;(greet1 ! ""/$greet1,32C$/)
+#;*E;(greet2 ! ""/$greet2,32C$/)
+#;*E;(greet3 ! ""/$greet3,32C$/)
+#;*E;(greet4 ! ""/$greet4,32C$/)
+#;*E;(greet5 ! ""/$greet5,32C$/)
+(prtpaidck > "0"/;bC;     << 此单已付款 >>/;*;)
+(TAKEOUT > "0"/;C;   << 全 单 外 卖 >>/;*;)
+;b;
+#;*E;/~G981,/var/www/html/GMMobile/uploads/$sign_img$,0,1,1,1
+~G963,$sign_img$,0,1,0,0
+;-F;05
+;-X;
+
+[item9C]
+;*E;(itm_vtime ! ""/*$qty_str,3L$/$qty_str,4L$)$itm_desc1,20D$$itmtot+itm_disc,9.2$
+;*C;  $itm_desc2,20D$
+#;*C;(itm_vtime ! ""/*$qty_str,3L$/$qty_str,4L$)$itm_desc2,20D$$itmtot+itm_disc,9.2$
+;*C;(DETAIL > "0"/(itm_vtime ! ""/* $order_emp,15L$/$order_emp,15L$  ) $stat_id,3L$ $time_in$/)
+;*C;(itm_vtime ! ""/* 删除时间: $itm_vtime$/)
+;*C;(itm_vtime ! ""/* 删除员工: $void_emp$/) 
+#;*E;(itm_disc > "0"/       项目折扣:        $-itm_disc,8.2$/)
+#;*E;(itm_disc > "0"/$idiscdesc2,23R$  $-itm_disc,8.2$/)
+;*E;(time_chg > "0"/    "("$time_in$-$time_out$")"/)
++F:modifier+
+
+[modi9C]
+;*C;(mod_desc2 ! ""/    *$mod_desc2$/)
+
+[pay9C]
+;C;$pay_desc$
+;*C;(oth_ref9 ! ""/ 发票号码: $oth_ref10$/)
+;*C;(room_no ! ""/      房号     : $room_no,4,1,4$/)
+;*C;(member ! ""/      会员编号: $member,15L$/)
+;*C;(mem_name ! ""/      会员姓名: $mem_name,15L$/)
+;*C;(pay_ref > ""/   姓名   : $pay_ref$/)
+;*C;(pay_ref_no > "0000"/    叁考 : $pay_ref_no$/)
+;*C;(pay_credit ! ""/信用咭编号 : $pay_credit$/)
+;*C;(ex_date ! ""/  有效期至 : $ex_date$/)
+;*C;(debit_card ! ""/(debit_bal = "0"/;r;/)  扣数咭户囗: $debit_card$/)
+;*C;(debit_card ! ""/  扣数咭馀额: $debit_bal,10.@$/)
+;*C;(type_fc > "0"/       * $pay_fc_amt,8.@$ $tips_fc,6.@$ $pay_fc_tot,8.@$/)
+;E;(debit_card ! ""/(debit_bal = "0"/;b;/)/)         $pay_amt,8.@$ $tips,6.@$ $pay_tot,8.@$
+
+[idisc9C]
+;*;(itm_disc >"0"/;rC;$idiscdesc2,23R$ $-itm_disc,9.2/;*;)
+
+#############################################################################
+
+[prt_hist9E]
+;E;$empname,15L$ $hist_print$ $stat_id$
+
+[prt_hist9C]
+;E;$empname,15L$ $hist_print$ $stat_id$
+
+#############################################################################
+
+[mesg9E]
+;*E;$itm_desc2,20D$
+;*E;(DETAIL > "0"/$order_emp,15L$   $stat_id,3L$ $time_in$/)
+
+[mesg9C]
+;*E;$itm_desc2,20D$
+;*E;(DETAIL > "0"/$order_emp,15L$   $stat_id,3L$ $time_in$/)
+#############################################################################
+[totsum9E]
+;*E;(tot_cal1  >"0"/                $tot_desc1$ $tot_cal1,9.2/)
+;*E;(tot_disc1 >"0"/ Total $tot_desc1$Discount $tot_disc1,9.2/)
+;*E;(tot_cal2  >"0"/                $tot_desc2$ $tot_cal2,9.2/)
+;*E;(tot_disc2 >"0"/ Total $tot_desc2$Discount $tot_disc2,9.2/)
+;*E;(tot_cal3  >"0"/                $tot_desc3$ $tot_cal3,9.2/)
+;*E;(tot_disc3 >"0"/ Total $tot_desc3$Discount $tot_disc3,9.2/)
+;*E;(tot_cal4  >"0"/                $tot_desc4$ $tot_cal4,9.2/)
+;*E;(tot_disc4 >"0"/ Total $tot_desc4$Discount $tot_disc4,9.2/)
+;*E;(tot_cal5  >"0"/                $tot_desc5$ $tot_cal5,9.2/)
+;*E;(tot_cal6  >"0"/                $tot_desc6$ $tot_cal6,9.2/)
+;*E;(tot_cal7  >"0"/                $tot_desc7$ $tot_cal7,9.2/)
+;*E;(tot_cal8  >"0"/                $tot_desc8$ $tot_cal8,9.2/)
+;*E;(tot_cal9  >"0"/                $tot_desc9$ $tot_cal9,9.2/)
+;*E;(tot_cal10 >"0"/                $tot_desc10$ $tot_cal10,9.2/)
+#############################################################################
+[pattern11]

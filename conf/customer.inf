@@ -1,0 +1,14 @@
+[setup]
+customer        = 济南香格里拉大酒店
+user            = 78
+station         = 27
+pda_station     = 16
+register_date   = 20171110
+expiry_date     = 20180101
+program_counter = 0
+version         = 1
+flag            = 010B
+subscriptions   = 20181101
+plug_serial     = b306b574b7e46b95
+activation_key  = 7cf888553726
+subscriptions_activation_key  = 241517464c64
