@@ -1,4 +1,5 @@
 # e-signature
+it needs python, php, httpd, and image library for e-signature.
 bigreqsproto-1.1.2.tar.gz*
 freetype-2.4.11.tar.gz*
 httpd-2.4.23.tar.gz*
